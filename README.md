@@ -1,2 +1,2 @@
 # flask-blog
- Flask Blog Website [Credits to Corey Schafer on YouTube]
+ Flask Blog Website Made with Python
